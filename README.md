@@ -29,34 +29,6 @@ I focus on building scalable **backend systems**, **blockchain integrations**, a
 | **AI & Data** | ![LLM](https://img.shields.io/badge/LLM-AI-Orange?style=flat) ![Analytics](https://img.shields.io/badge/Analytics-Data-Blue?style=flat) |
 | **Tools** | Git, API Integrations, Workflow Automation, Telegram Bot Architecture |
 
----
-
-## 📂 Featured Projects
-
-### 🌌 ZKLend (Starknet)
-*Income-verified undercollateralized lending protocol*
-- Implemented **ZK proofs** via Reclaim Protocol to verify income ranges without exposing raw data.
-- Enabled **gasless borrowing** using StarkZap account abstraction.
-- **Stack:** Starknet, Cairo, Zero-Knowledge Proofs, Privacy Rails.
-
-### 🤖 Quiz Bot (Python Backend)
-*Production-grade Community Automation Tool*
-- Built a high-concurrency Telegram bot with **multi-level admin controls** and real-time leaderboards.
-- Architected with **Redis caching** and **PostgreSQL** connection pooling for performance.
-- **Dockerized** for seamless deployment and scalability.
-- **Stack:** Python, Redis, PostgreSQL, Docker, Telegram API.
-
-### 🛡️ StellarProof
-*Reusable KYC Credential Layer*
-- Designed a credential layer for Stellar anchors to verify identity once via government rails and reuse across anchors.
-- Eliminates redundant **Re-KYC** processes, improving user onboarding flow.
-- **Stack:** Stellar, Soroban, Identity Verification, Anchor Protocol.
-
-### 🔍 Wallet Age Checker
-*On-chain Analytics Tool*
-- Verifies crypto wallet age and blockchain address maturity using **Ethers.js** and **Etherscan API**.
-- Provides insights into on-chain activity and wallet legitimacy.
-- **Stack:** JavaScript, Next.js, Ethers.js, API Integration.
 
 ---
 
@@ -77,19 +49,12 @@ I focus on building scalable **backend systems**, **blockchain integrations**, a
 
 ---
 
-## 🎓 Education
-
-**University of Mumbai**  
-*B.Sc. Computer Science* | Feb 2024 – Present
-
----
-
 ## 📬 Connect With Me
 
 I'm always open to collaborating on **Blockchain Engineering**, **Backend Systems**, and **Web3 AI** projects.
 
 - 📧 **Email:** [yangoladhanush@gmail.com](mailto:yangoladhanush@gmail.com)
-- 🐦 **Twitter:** [@Dhanush_devx](https://x.com/Dhanush_devx)
+- 🐦 **Twitter:** [@Dhanush_devx](https://x.com/ushiki_kirigawa)
 - 💼 **GitHub:** [github.com/dhanush-devx](https://github.com/dhanush-devx)
 
 ---
